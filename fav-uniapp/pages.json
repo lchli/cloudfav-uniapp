@@ -1,0 +1,29 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "云收藏首页"
+		}
+	}, {
+		"path": "pages/Login",
+		"style": {
+			"navigationBarTitleText": "登录页"
+		}
+	},{
+		"path": "pages/register",
+		"style": {
+			"navigationBarTitleText": "注册页"
+		}
+	},{
+		"path": "pages/addFav",
+		"style": {
+			"navigationBarTitleText": "添加收藏页"
+		}
+	}],
+	"globalStyle": {
+		"app-plus": {
+			"titleNView": false
+		},
+		"backgroundColor": "#FFFFFF"
+	}
+}
